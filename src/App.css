@@ -1,0 +1,12 @@
+.app {
+  display: flex;
+}
+
+.main {
+  flex: 1;
+  padding: 20px;
+}
+
+.dashboard-header {
+  margin-bottom: 20px;
+}

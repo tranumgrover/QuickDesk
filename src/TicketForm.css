@@ -1,0 +1,12 @@
+.ticket-form {
+  margin-bottom: 20px;
+}
+
+.ticket-form input {
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.ticket-form button {
+  padding: 10px;
+}
